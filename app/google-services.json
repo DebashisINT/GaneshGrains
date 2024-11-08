@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013683636879",
+    "project_id": "ganesh-grains",
+    "storage_bucket": "ganesh-grains.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013683636879:android:b9c005cc1be0a523fffefa",
+        "android_client_info": {
+          "package_name": "com.breezefieldganeshgrains"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRyeTrshZs0AXAnDsUVnhnxE0FbP_x4xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
